@@ -1,2 +1,2 @@
 #!/bin/bash
-echo . /action |ls -t
+echo . /action |ls -dtr */
