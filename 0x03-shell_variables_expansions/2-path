@@ -1,2 +1,2 @@
 #!/bin/bash
--t echo . /action
+echo . /action |ls -t
